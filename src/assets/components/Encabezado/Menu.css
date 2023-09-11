@@ -1,0 +1,67 @@
+.btn-group {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+}
+
+.btn-group button {
+  background: none;
+  border: solid 1px;
+  border-color: #f2f2f2;
+  margin: 20px 0px 40px;
+  align-content: center;
+  padding: 20px;
+}
+
+.btn-city {
+  border-top-left-radius: 16px;
+  border-bottom-left-radius: 16px;
+  font-size: 14px;
+  line-height: 16.41px;
+  font-family: "Muli";
+  color: #333333;
+}
+
+#btn-guest {
+  color: #bdbdbd;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17.57px;
+  font-family: "Muli";
+}
+
+.btn-ico {
+  border-top-right-radius: 16px;
+  border-bottom-right-radius: 16px;
+  color: #eb5757;
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 64px;
+}
+
+.city {
+  border: none;
+  font-size: 14px;
+  line-height: 16.41px;
+  font-family: "Muli";
+  color: #333333;
+  margin: 2.3px 0px 2.3px;
+}
+
+#guest {
+  color: #bdbdbd;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17.57px;
+  font-family: "Muli";
+  background: none;
+  width: 20px;
+  margin-left: 10px;
+  padding: 1px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+
+}

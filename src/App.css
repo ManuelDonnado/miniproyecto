@@ -1,0 +1,154 @@
+
+body{
+    margin: 20px;
+}
+
+
+
+.contenedor {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.home{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 25px 0px 20px;
+}
+
+.logo-top{
+    width: 96px;
+    height: 18.75;
+    top: 46px;
+    left: 94px;
+    margin: 20px 0px 60px;
+}
+
+
+
+.head-stay{
+    display: flex;
+    justify-content: space-between;
+}
+
+.head-top{
+    font-size: 24px;
+    line-height: 29.26px;
+    font-weight: 700;
+    font-family: Montserrat;
+    margin: 0px 20px 0px;
+}
+
+.top-stay{
+    font-size: 14px;
+    line-height: 17.07px;
+    font-weight: 500;
+    font-family: Montserrat;
+    margin: 10px 30px 0px;
+    align-content: center;
+}
+
+
+
+
+
+.card {
+    background-color: none;
+    padding: 0px;
+    border: none;
+    width: 394px;
+    height: 340px;
+    display: flex;
+    margin: 20px;
+}
+
+.card-body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Montserrat;
+
+}
+.card-img-top{
+    border-radius: 24px;
+    width: 394px;
+    height: 267px;
+    top: 210px;
+    left: 521px;
+}
+
+.btn-host {
+    width: 100px;
+    height: 28px;
+    top: 493px;
+    left: 94px;
+    border-radius: 12px;
+    border:  solid 1px; 
+    border-color: #4F4F4F;  
+    font-weight: 700px;
+    font-size: 12px;
+    line-height: 14.63px;
+    font-family: Montserrat;
+    background: none;
+}
+
+
+.card-title{
+    margin: 20px 0px 15px;
+    color: #828282;
+    font-family: Montserrat;
+    font-size: 14px;
+    line-height: 17.07px;
+
+}
+
+.card-text {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+
+}
+
+#star {
+    width: 24px;
+    height: 24px;
+    color: #eb5757;
+    margin:  20px 0px 15px;
+}
+.card-rating{
+    margin: 20px 0px 15px;
+    color: black;
+    font-family: Montserrat;
+    font-size: 14px;
+    line-height: 17.07px;
+}
+
+.card-p{
+    font-family: Montserrat;
+    font-weight: 600px;
+    font-size: 16px;
+    line-height: 19.5px;
+    color: #333333;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    
+    
+   
+}
+
+.info-footer{
+    font-size: 14px;
+    font-family: Montserrat;
+    line-height: 17.07;
+    color: #828282;
+    margin: 0px;
+}
+.info-resaltado{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
